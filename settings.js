@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -36,13 +36,13 @@ global.ownerNumber = ["2250545752448@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
+global.themeemoji = '💫'
 global.wm = "Cheems Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "〘Ҡටའටའට•ꝈԱ↻įƑƐའ 🥀〙\n\n"
 global.creator = "2250545752448@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!']
 global.sessionName = 'session'
 global.hituet = 0
 
